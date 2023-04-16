@@ -17,6 +17,6 @@
 * Overall, I found that Messi and Ronaldo have had very successful careers as football players, with Messi being slightly more successful in terms of individual contributions to goals. However, both players have achieved a high level of success and are considered among the greatest football players of all time.
 
 
-Here is a link of dataset, it's Analyis and Predictions:
+Here is a link to the explanation of Dataset, it's Analyis and Predictions:
 
 https://medium.com/@HenryMorgansDiary/exploring-the-performances-of-messi-and-ronaldo-a-data-analysis-approach-878e7dc9646a
